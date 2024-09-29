@@ -82,6 +82,17 @@ Jika benar dan bekerja dibawah 160 jam:
 
 ![image](https://github.com/user-attachments/assets/3dd03a6d-045c-4720-a02d-f953693f5014)
 
+Jika memilih hitung lagi dan bekerja diatas 160 jam:
+
+
+![image](https://github.com/user-attachments/assets/fd8d81b5-c10c-4ed1-912c-4e5c5356910e)
+
+
+jika Memilih Keluar Program
+
+![image](https://github.com/user-attachments/assets/4b67714c-df5d-4f3b-a5be-6febc5818e38)
+
+
 
 
 
