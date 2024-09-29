@@ -1,0 +1,1 @@
+# Mini-Project-Dasar-Dasar-Praktikum-Menghitung-Gaji-Karyawan-Berdasarkan-Jam-Kerja-dan-Tarif-Kerja.
