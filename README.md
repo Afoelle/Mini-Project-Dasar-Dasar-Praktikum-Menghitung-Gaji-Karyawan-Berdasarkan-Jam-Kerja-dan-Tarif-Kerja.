@@ -68,3 +68,20 @@ Gaji = Tarif * Jam
 12. baris 44-45: Menggunakan else agar jika input yang dimasukan tidak ada di pilihan akan keluar tulisan "Input Yang Anda Masukan Salah Silahkan Coba Lagi"
     	else:
 		print("Input Yang Anda Masukan Salah Silahkan Coba Lagi")
+
+Screenshot:
+
+Jika login salah:
+
+
+![image](https://github.com/user-attachments/assets/8a3bd92a-9119-40e0-9132-e2d6315f6261)
+
+
+Jika benar dan bekerja dibawah 160 jam:
+
+
+![image](https://github.com/user-attachments/assets/3dd03a6d-045c-4720-a02d-f953693f5014)
+
+
+
+
